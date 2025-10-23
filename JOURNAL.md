@@ -13,3 +13,22 @@ This is the same picture I used for the banner
 
 Ive been pondering the idea of making something like this for quite a while, i even ordered a few servos for projects earlier this month, though they haven't arrived yet. I figured this would be a good idea since M5stack sells a kit that does something similar so i know its within the realm of possibility, but I decided that I wanted to add my own flair to it by giving it thermal vision and making it a tank.  
 
+## 10/22/2025 - Research before i can start modeling  
+
+I cannot say that this is going very well at this point in time.
+
+My current largest problem is a need for a power system for the servos, since they take 5 volts and i cannot find any combination of batteries that adds up to that. From the sounds of it im going to need something called a "buck converter" though i am worried since i do not own a multimeter and cannot verify that the voltage coming out will be correct. I still need to do more research on what kind of battery will best fit this scenario, since it needs a somewhat high amount of current, especially since i decided to go up to 4 servos and make it larger all around to help handle the sheer size of batteries.
+
+Here is a physical outline of the new shape that i made so i could reference it
+![20251022_225913.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--bc377585a018ed900956513b2624753afd953043/20251022_225913.jpg)
+
+
+As well as this obligatory picture of my very eepy research buddy
+![20251022_215222.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--16e2cd3a5a9a6da2df9486557cf1ea42002303ea/20251022_215222.jpg)
+
+Things to do in the near future:
+
+- decide on a type of battery (from my research it sounds like it needs to be able to supply around 3 amps
+- decide how to secure said batteries
+start to cad out the shapes of the individual components  
+
