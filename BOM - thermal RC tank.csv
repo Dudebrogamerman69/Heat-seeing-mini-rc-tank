@@ -1,0 +1,19 @@
+item,link,price,taxes,total,tax rate
+Heat shrink tubing,https://www.amazon.com/dp/B0FNMGP9GS?psc=1&ref_=cm_sw_r_cp_ud_ct_A4F5K1722A2X0SKAJG3P_1,$4.59,$0.28,$4.87,0.06
+portable battery,https://www.amazon.com/dp/B0CB1FW5FC?psc=1&ref_=cm_sw_r_cp_ud_ct_A4F5K1722A2X0SKAJG3P_2,$21.99,$1.32,$23.31,
+m2 screws,https://www.amazon.com/dp/B0D3X4LJD2?psc=1&ref_=cm_sw_r_cp_ud_ct_A4F5K1722A2X0SKAJG3P_3,$8.49,$0.51,$9.00,
+dupont connector kit,https://www.amazon.com/dp/B08X6C7PZM?psc=1&ref_=cm_sw_r_cp_ud_ct_A4F5K1722A2X0SKAJG3P_5,$14.99,$0.90,$15.89,
+shipping,,free,,,
+,,subtotal:,,amazon total:,
+,,$50.06,,$53.06,
+M5store,,,,,
+item,link,price,taxes,total,tax rate
+unit thermal camera,https://shop.m5stack.com/products/thermal-camera?variant=16804741939290,$65.00,$3.90,$68.90,0.06
+Cardputer ADV,https://shop.m5stack.com/products/m5stack-cardputer-adv-version-esp32-s3,$29.90,$1.79,$31.69,
+shipping,,$9.10,,,
+,,subtotal:,,M5 store total:,
+,,$104.00,,$109.69,
+,,,,,
+,,,,,
+,,,,full total:,
+,,,,$162.76,
